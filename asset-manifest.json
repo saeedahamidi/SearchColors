@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SearchColors/static/css/main.d13bb446.css",
+    "main.js": "/SearchColors/static/js/main.a457919e.js",
+    "static/js/584.4bda8dc5.chunk.js": "/SearchColors/static/js/584.4bda8dc5.chunk.js",
+    "static/media/image1.jpg": "/SearchColors/static/media/image1.7abc5580ebabac1d8227.jpg",
+    "index.html": "/SearchColors/index.html",
+    "main.d13bb446.css.map": "/SearchColors/static/css/main.d13bb446.css.map",
+    "main.a457919e.js.map": "/SearchColors/static/js/main.a457919e.js.map",
+    "584.4bda8dc5.chunk.js.map": "/SearchColors/static/js/584.4bda8dc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d13bb446.css",
+    "static/js/main.a457919e.js"
+  ]
+}
